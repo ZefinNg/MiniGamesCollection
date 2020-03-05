@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wqy-microhei.ttc</file>
+    </qresource>
+</RCC>
