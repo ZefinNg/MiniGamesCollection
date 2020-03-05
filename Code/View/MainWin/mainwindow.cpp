@@ -10,6 +10,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     this->resize(SCREEN_WIDTH, SCREEN_HEIGHT);
+    this->setWindowIcon(QIcon(":/Logo.ico"));
 }
 
 MainWindow::~MainWindow()
