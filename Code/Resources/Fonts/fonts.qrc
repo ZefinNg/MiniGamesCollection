@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>wqy-microhei.ttc</file>
+        <file>Microsoft YaHei-Regular.ttf</file>
     </qresource>
 </RCC>

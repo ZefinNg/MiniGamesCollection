@@ -33,21 +33,6 @@
    </attribute>
   </widget>
   <widget class="QStatusBar" name="statusBar"/>
-  <action name="actionAsdfa">
-   <property name="text">
-    <string>asdfa</string>
-   </property>
-  </action>
-  <action name="action123">
-   <property name="text">
-    <string>123</string>
-   </property>
-  </action>
-  <action name="action">
-   <property name="text">
-    <string>阿斯蒂芬</string>
-   </property>
-  </action>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
  <resources/>
